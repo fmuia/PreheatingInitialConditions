@@ -10,7 +10,7 @@ The study of preheating, the phase immediately following cosmic inflation in the
 
 ## Implementation
 
-The `InitialConditions.ipynb` notebook utilizes Python and standard scientific libraries to calculate and output the initial scalar field configurations (in 1D, 2D and 3D) necessary for starting lattice simulations. DEtails about the implementation can be read in the references below.
+The `InitialConditions.ipynb` notebook utilizes Python and standard scientific libraries to calculate and output the initial scalar field configurations (in 1D, 2D and 3D) necessary for starting lattice simulations. Details about the implementation can be read in the references below.
 
 ## Key References
 
